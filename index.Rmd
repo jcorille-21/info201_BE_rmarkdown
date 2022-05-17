@@ -1,0 +1,28 @@
+---
+title: "Lab 6 Demo"
+author: "Jerome"
+date: "5/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Maximum County Population - Washington
+
+
+
+## Map of States
+
+```{r}
+
+```
+
+## Map of Washington
+
+```{r}
+
+```
+
