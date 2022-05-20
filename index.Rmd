@@ -7,22 +7,22 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-
+source('code.R')
 ```
 
 ## Maximum County Population - Washington
 
-
+The maximum county population in Washington is `r max_wa_pop_2008` people.
 
 ## Map of States
 
 ```{r}
-
+us_map
 ```
 
 ## Map of Washington
 
 ```{r}
-
+wa_map
 ```
 
